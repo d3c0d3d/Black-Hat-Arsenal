@@ -1,4 +1,4 @@
-# Black Hat Arsenal USA 2017 (Tools)
+# Black Hat Arsenal (Tools)
 
 ## Android, iOS and Mobile Hacking
 ### Android Tamer
